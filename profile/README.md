@@ -29,4 +29,4 @@ When contributing to this system, please discuss the change you wish to make via
 For any questions, you can contact the developers of the project.
 
 1. [Bhavyai Gupta](mailto:zbhavyai@gmail.com)
-2. [Michael Man Yin Lee](mailto:firyace@gmail.com)
+2. [Mike Lee](mailto:mikeleetab2015@gmail.com)
