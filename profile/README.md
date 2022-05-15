@@ -5,6 +5,7 @@ BudLib is an open-source Library Management System, built and designed from grou
 The librarian of the Calgary Waldorf School played a key role in formulating the requirements for the system, and the system was designed to be easy to use and easy to maintain.
 
 ### Video Demo 📹
+You can find a video providing an overview of the BudLib system, a demo of some of the functionalities as well as how you can help and contribute to this opensource project to make it a success here:
 [Overview and Demo](https://youtu.be/FwIqs6DDKf4)
 
 ### Technologies :computer:
