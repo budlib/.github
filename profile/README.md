@@ -4,21 +4,21 @@ BudLib is an open-source Library Management System, built and designed from grou
 
 The librarian of the Calgary Waldorf School played a key role in formulating the requirements for the system, and the system was designed to be easy to use and easy to maintain.
 
-### Video Demo 📹
-You can find a video providing an overview of the BudLib system, a demo of some of the functionalities as well as how you can help and contribute to this opensource project to make it a success here:
-[Overview and Demo](https://youtu.be/FwIqs6DDKf4)
+### Video Demo :video_camera:
+
+You can find a video providing an overview of the BudLib system, a demo of some of the functionalities as well as how you can help and contribute to this opensource project to make it a success here: [https://youtu.be/FwIqs6DDKf4](https://youtu.be/FwIqs6DDKf4).
 
 ### Technologies :computer:
 
-The system is developed using popular open source technologies and frameworks - namely, **Spring Boot**, **MySQL**, **React**, and **Electron**.
+The system is developed using open source technologies and frameworks - namely, **Spring Boot**, **MySQL**, **React**, and **Electron**.
 
-### Instructions :pencil:
+### Deployment Guides :pencil:
 
-You can find instructions to deploy in the below README files.
+You can find instructions to deploy in the below Wiki of the respective repositories.
 
-1. [API readme](https://github.com/budlib/budlib-api/blob/main/README.md) for instructions on deploying the API.
+1. [budlib-api Wiki](https://github.com/budlib/budlib-api/wiki) for instructions on deploying the API.
 
-2. [Web readme](https://github.com/budlib/budlib-web/blob/main/README.md) for instructions on deploying the web and electron interface.
+2. [budlib-web Wiki](https://github.com/budlib/budlib-web/wiki) for instructions on deploying the web interface. For the addtional steps related to **Electron wrapper**, refer to the [README](https://github.com/budlib/budlib-web/blob/main/README.md) of the repository.
 
 ### License :penguin:
 
